@@ -6,29 +6,29 @@
       "offset": "70"
     },
     {
-      "label": "Services",
+      "label": "",
       "path": "#services",
       "offset": "70"
     },
     {
-      "label": "Features",
+      "label": "",
       "path": "#features",
       "offset": "70"
     },
     {
-      "label": "News",
+      "label": "",
       "path": "#news",
       "offset": "70"
     }
   ],
   "rightMenuItems": [
     {
-      "label": "Login",
+      "label": "",
       "path": "#",
       "offset": "70"
     },
     {
-      "label": "Sign Up",
+      "label": "",
       "path": "#",
       "offset": "70"
     }
@@ -40,27 +40,27 @@
       "offset": "70"
     },
     {
-      "label": "Services",
+      "label": "",
       "path": "#services",
       "offset": "70"
     },
     {
-      "label": "Features",
+      "label": "",
       "path": "#features",
       "offset": "70"
     },
     {
-      "label": "News",
+      "label": "",
       "path": "#news",
       "offset": "70"
     },
     {
-      "label": "Login",
+      "label": "",
       "path": "#",
       "offset": "70"
     },
     {
-      "label": "Sign Up",
+      "label": "",
       "path": "#",
       "offset": "70"
     }

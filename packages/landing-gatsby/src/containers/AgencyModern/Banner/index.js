@@ -12,9 +12,7 @@ import BannerWrapper, {
   ImageGroup,
 } from './banner.style';
 
-import paypal from 'common/src/assets/image/agencyModern/paypal.png';
-import google from 'common/src/assets/image/agencyModern/google.png';
-import dropbox from 'common/src/assets/image/agencyModern/dropbox.png';
+
 
 const Banner = () => {
   return (
@@ -27,25 +25,11 @@ const Banner = () => {
           />
           <Text
             className="banner-caption"
-            content="We take any business and drive online sales - from design, development, photography and channel launch, through to growth tactics, optimisation and analytics."
+            content="We take any business and drive online sales - from design, development, photography and channel launch, through to growth tactics, optimisation and analytics. Full website launching soon."
           />
-          <Subscribe>
-            <Input
-              inputType="email"
-              placeholder="Enter Email Address"
-              iconPosition="left"
-              aria-label="email"
-            />
-            <Button title="Subscribe" type="submit" />
-          </Subscribe>
-          <SponsoredBy>
-            <Text className="sponsoredBy" content="Sponsored by:" />
-            <ImageGroup>
-              <Image src={paypal} alt="Paypal" />
-              <Image src={google} alt="Google" />
-              <Image src={dropbox} alt="Dropbox" />
-            </ImageGroup>
-          </SponsoredBy>
+          
+          
+  
         </BannerContent>
       </Container>
     </BannerWrapper>

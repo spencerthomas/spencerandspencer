@@ -22,7 +22,21 @@ const data = {
       path: '#home',
       offset: '70',
     },
-  
+    {
+      label: 'Services',
+      path: '#services',
+      offset: '70',
+    },
+    {
+      label: 'Features',
+      path: '#features',
+      offset: '70',
+    },
+    {
+      label: 'News',
+      path: '#news',
+      offset: '70',
+    },
   ],
   rightMenuItems: [
     {

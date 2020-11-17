@@ -58,7 +58,7 @@ const Navbar = () => {
         <Logo
           href="/agencymodern"
           logoSrc={LogoImage}
-          title="Crypto Modern"
+          title="Spencer and Spencer"
           className="main-logo"
         />
         {/* end of logo */}
