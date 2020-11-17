@@ -23,11 +23,11 @@ const Banner = () => {
         <BannerContent>
           <Heading
             as="h1"
-            content="Build your audience &amp; grow your business online smarter"
+            content="We build, launch and grow ecommerce for any business."
           />
           <Text
             className="banner-caption"
-            content="Agencies around the world are moving to the digital agencies. So, It is high time to introduce your agency digitaly. We respect our customer opinions and deals with them with perfect wireframing."
+            content="We take any business and drive online sales - from design, development, photography and channel launch, through to growth tactics, optimisation and analytics."
           />
           <Subscribe>
             <Input
