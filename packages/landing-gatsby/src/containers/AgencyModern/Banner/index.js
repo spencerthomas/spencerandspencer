@@ -1,15 +1,9 @@
 import React from 'react';
 import Text from 'common/src/components/Text';
-import Image from 'common/src/components/Image';
-import Button from 'common/src/components/Button';
 import Heading from 'common/src/components/Heading';
-import Input from 'common/src/components/Input';
 import Container from 'common/src/components/UI/ContainerTwo';
 import BannerWrapper, {
   BannerContent,
-  Subscribe,
-  SponsoredBy,
-  ImageGroup,
 } from './banner.style';
 
 
